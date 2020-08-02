@@ -1,4 +1,4 @@
 # Build your say_hello method here
 def say_hello (name, language = "Ruby")
-  puts "Hello, #{name}! #{language} programmer!"
+  puts "Hello, #{name}!"
   end
