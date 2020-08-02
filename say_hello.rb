@@ -1,6 +1,5 @@
 # Build your say_hello method here
-require_relative './spec_helper'
 def say_hello (name, language = "Ruby")
-  puts "Hello #{name}! #{language} Programmer!"
+  puts "Hello #{name}! Hello #{language} Programmer!"
 end
 say_hello()
